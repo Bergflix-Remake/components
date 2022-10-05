@@ -31,6 +31,6 @@ jobs:
       - run: yarn ci
       - run: yarn build
       - run: yarn publish --access public
-        working-directory: packages/
+        working-directory: package/
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
