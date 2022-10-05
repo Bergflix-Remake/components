@@ -1,3 +1,14 @@
+## v0.0.1...release/0.0.2
+
+### 🏡 Chore
+
+- **dx:** 🔨 add changelog script (dca2953)
+- **core:** Bump version number (3310e26)
+
+### ❤️ Contributors
+
+- AnnikenYT
+
 ## 56b6523...v0.0.1
 
 ### 🚀 Enhancements
