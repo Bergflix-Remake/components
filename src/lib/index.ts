@@ -1,3 +1,5 @@
 // Reexport your entry components here
 import '../app.css'
-export * from './HelloWorld.svelte'
+import '../assets/font.css'
+export * from './components/atoms/NavBar.svelte'
+export * from './components/atoms/Logo.svelte'
